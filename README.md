@@ -5,9 +5,14 @@ A single-scene Unity cannon playground focused on custom projectile simulation, 
 The project was built as a Flexus Games Unity Developer test task. The core requirement is implemented directly in gameplay: the projectile leaves a mark on the hit surface using a renderer texture and explodes on the final ricochet.
 
 ## Videos
+### Cannon_Reference_gameplay.MP4
 
-- Reference gameplay: [Cannon_Reference_gameplay.MP4](Docs/Videos/Cannon_Reference_gameplay.MP4)
-- My implementation: [Cannon_Gameplay_Implementation_compressed.mp4](Docs/Videos/Cannon_Gameplay_Implementation_compressed.mp4)
+https://github.com/user-attachments/assets/e2c1c56c-a406-40d0-b224-f92071967510
+
+### Cannon_Gameplay_Implementation.MP4
+
+https://github.com/user-attachments/assets/a190383b-8c5b-4fd1-9f65-b259ccc6eaa0
+
 
 ## Quick Start
 
