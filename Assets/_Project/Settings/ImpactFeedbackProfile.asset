@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7411f2b03288f5440b9a7dc0fab0bcda, type: 3}
+  m_Name: ImpactFeedbackProfile
+  m_EditorClassIdentifier: Assembly-CSharp::FlexusTest.Feedback.ImpactFeedbackProfile
+  <RegularImpactVfx>k__BackingField: {fileID: 6520436353736122353, guid: e818bcc97506b9443928ae099f0feded, type: 3}
+  <RegularDecalStamp>k__BackingField: {fileID: 2800000, guid: fc4bd8a7ccfbb8a4ab9e295a0ec0604c, type: 3}
+  <RegularStampSize>k__BackingField: 0.5
+  <RegularImpactSound>k__BackingField: {fileID: 8300000, guid: f11ef126a4bccd649aeb7759d64bcfb8, type: 3}
+  <RegularShakeAmplitude>k__BackingField: 0.1
+  <RegularShakeDuration>k__BackingField: 0.2
+  <FinalImpactVfx>k__BackingField: {fileID: 4062496106243499295, guid: 05ac410c4bd7d7d4ebcf803ef3f2f330, type: 3}
+  <FinalDecalStamp>k__BackingField: {fileID: 2800000, guid: 5866a0e248fd4f04787ca08988d887b6, type: 3}
+  <FinalStampSize>k__BackingField: 1
+  <FinalImpactSound>k__BackingField: {fileID: 8300000, guid: 03031bdff7bc1fe40996b8a1540f7b26, type: 3}
+  <FinalShakeAmplitude>k__BackingField: 0.2
+  <FinalShakeDuration>k__BackingField: 0.4
