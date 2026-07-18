@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e81b83407740f8c4793cea9ef9e8d92a, type: 3}
+  m_Name: ProjectileShapeCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::FlexusTest.Projectiles.ProjectileShapeCatalog
+  _shapes:
+  - <Name>k__BackingField: Box
+    <MeshKind>k__BackingField: 0
+    <CollisionShape>k__BackingField: 0
+    <Material>k__BackingField: {fileID: 2100000, guid: c433fd6951df82541b75620c9fe064d5, type: 2}
+    <TrailMaterial>k__BackingField: {fileID: 2100000, guid: ce7734ec3291b854ea8fd3b6c9453c8f, type: 2}
+    <VisualScale>k__BackingField: {x: 1, y: 1, z: 1}
+    <BoxCastSize>k__BackingField: {x: 0.5, y: 0.5, z: 0.5}
+    <SphereCastRadius>k__BackingField: 0
+    <Drag>k__BackingField: 0.35
+    <MeshJitter>k__BackingField: 0.2
+  - <Name>k__BackingField: Sphere
+    <MeshKind>k__BackingField: 1
+    <CollisionShape>k__BackingField: 0
+    <Material>k__BackingField: {fileID: 2100000, guid: bc0d0f64ba0ef56478b28d3f9d5959c0, type: 2}
+    <TrailMaterial>k__BackingField: {fileID: 2100000, guid: ce7734ec3291b854ea8fd3b6c9453c8f, type: 2}
+    <VisualScale>k__BackingField: {x: 1, y: 1, z: 1}
+    <BoxCastSize>k__BackingField: {x: 0, y: 0, z: 0}
+    <SphereCastRadius>k__BackingField: 0.5
+    <Drag>k__BackingField: 0.35
+    <MeshJitter>k__BackingField: 0.2
