@@ -6,10 +6,8 @@ The project was built as a Flexus Games Unity Developer test task. The core requ
 
 ## Videos
 
-> These links are placeholders for the final submission videos.
-
-- Reference gameplay: `TODO: add reference video link`
-- My implementation: `TODO: add gameplay video link`
+- Reference gameplay: [Cannon_Reference_gameplay.MP4](Docs/Videos/Cannon_Reference_gameplay.MP4)
+- My implementation: [Cannon_Gameplay_Implementation_compressed.mp4](Docs/Videos/Cannon_Gameplay_Implementation_compressed.mp4)
 
 ## Quick Start
 
